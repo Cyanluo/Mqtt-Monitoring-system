@@ -1,0 +1,63 @@
+2021-05-04 00:55:05,768 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(35): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 00:55:07,020 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:55:07,036 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:07,036 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:55:09,029 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:55:09,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:09,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:55:11,029 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:55:11,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:11,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:26,552 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(35): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 00:57:27,168 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:57:27,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:27,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:29,167 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:57:29,168 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:29,168 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:31,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:57:31,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:31,170 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:05,567 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(35): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 00:58:07,205 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:58:07,205 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:07,205 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:09,209 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:58:09,210 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:09,210 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:11,211 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:58:11,211 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:11,212 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:13,213 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:58:13,214 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:13,214 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:15,214 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(71): INFO Received from `/client/image/python-mqtt-892` topic
+2021-05-04 00:58:15,215 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:15,215 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:59:50,368 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(36): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 00:59:58,891 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(65): INFO Received `{"username":"undefined","ts":1620061198890,"sockport":1883,"proto_ver":4,"proto_name":"MQTT","keepalive":60,"ipaddress":"127.0.0.1","expiry_interval":0,"connected_at":1620061198890,"connack":0,"clientid":"python-mqtt-667","clean_start":true}` from `$SYS/brokers/emqx@127.0.0.1/clients/python-mqtt-667/connected` topic
+2021-05-04 01:00:00,908 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:00:04,236 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:00:07,277 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:00:43,620 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(36): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 01:00:44,951 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:26,027 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(36): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 01:01:26,986 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:29,327 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:30,999 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:33,227 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:36,035 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:37,005 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:39,810 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:56,220 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(36): INFO server-manager-client: Connected to MQTT Broker!
+2021-05-04 01:01:57,024 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:01:59,028 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:02:01,027 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:02:03,031 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
+2021-05-04 01:02:05,032 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(72): INFO Received from `/client/image/python-mqtt-667` topic
