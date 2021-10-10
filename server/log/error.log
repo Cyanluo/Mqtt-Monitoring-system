@@ -1,0 +1,28 @@
+2021-05-04 00:55:07,036 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:07,036 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:55:09,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:09,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:55:11,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:55:11,030 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:27,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:27,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:29,168 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:29,168 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:57:31,169 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(81): ERROR OpenCV(4.2.0) /home/cyan/Downloads/opencv-4.2.0/modules/highgui/src/window.cpp:376: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2021-05-04 00:57:31,170 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(82): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:07,205 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:07,205 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:09,210 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:09,210 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:11,211 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:11,212 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:13,214 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:13,214 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
+2021-05-04 00:58:15,215 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(84): ERROR name 'b64decode' is not defined
+2021-05-04 00:58:15,215 /home/cyan/workPlace/MyProject/Fire_detect/networkHandle/NetHandle.py(85): ERROR Fail to convert data to img !!!
